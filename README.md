@@ -43,21 +43,6 @@ sudo apt install wireguard qrencode curl -y
 </code></pre>
 
 <hr>
-
-<h2>📁 Project Structure</h2>
-
-<pre><code>wg-add-peer.py
-/etc/wireguard/
-├── wg0.conf
-├── server_private.key
-├── server_public.key
-└── peers/
-    ├── phone.conf
-    ├── laptop.conf
-</code></pre>
-
-<hr>
-
 <h2>⚙️ Setup</h2>
 
 <ol>
